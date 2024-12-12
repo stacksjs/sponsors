@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.14",
+    "sponsorkit": "^0.16.2"
+  }
+}
