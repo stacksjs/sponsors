@@ -4,7 +4,7 @@
 
 We would like to extend our thanks to the following sponsors for funding Stacks development. If you are interested in becoming a sponsor, please reach out to us, or see [these](https://github.com/sponsors/chrisbbreuer) possibilties.
 
-_This project is made possible by all the sponsors supporting my/our work:_
+_This project is made possible by all the sponsors supporting our work:_
 
 <p align="center">
   <a href="https://github.com/sponsors/chrisbbreuer">
